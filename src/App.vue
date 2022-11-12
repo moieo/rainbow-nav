@@ -32,7 +32,7 @@
           <img
             class="d-inline-block"
             alt=""
-            src="favicon.ico"
+            src="/favicon.ico"
             width="40"
             height="40"
           />

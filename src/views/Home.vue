@@ -53,9 +53,9 @@
               class="item-container row row-cols-2 row-cols-sm-2 row-cols-md-4"
             >
               <div
-                v-for="(item, idx) in value.data"
+                v-for="(item, idx_) in value.data"
                 id="child-item"
-                :key="idx"
+                :key="idx_"
                 class="col col-item"
                 data-md-placement="bottom"
                 data-md-toggle="tooltip"
