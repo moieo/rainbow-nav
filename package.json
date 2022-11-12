@@ -5,8 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "build": "vite build",
+    "build:tsc": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "serve": "node express.js",
+    "lint:fix": "eslint --fix --ext .ts,.vue --ignore-path .gitignore src"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
