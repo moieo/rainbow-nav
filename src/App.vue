@@ -71,8 +71,10 @@
 
   <div class="container">
     <footer class="py-3 mt-4 border-top">
-      Powered by&nbsp;<a href="https://angular.io/">Vue.js</a
-      >&nbsp;&amp;&nbsp;<a href="https://getbootstrap.com/">Bootstrap 5</a>
+      Powered by&nbsp;<a href="https://vuejs.org/">Vue.js</a>&nbsp;&amp;&nbsp;<a
+        href="https://getbootstrap.com/"
+        >Bootstrap 5</a
+      >
       <br />
       Copyright © 2022&nbsp;<a href="https://info.moieo.top">Moieo</a>.
     </footer>
