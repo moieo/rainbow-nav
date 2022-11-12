@@ -10,6 +10,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: Home,
   },
+  {
+    path: "/about",
+    name: "about",
+    meta: {
+      title: "关于",
+    },
+    component: import("@/views/About.vue"),
+  },
 ];
 
 const router = createRouter({

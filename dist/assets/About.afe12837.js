@@ -1,0 +1,1 @@
+import{V as o}from"./vue-class-component.942c5183.js";import{_ as s}from"./index.09513c6a.js";import"./@vue.ed1ab887.js";import"./bootstrap.1113a681.js";import"./@popperjs.9b479268.js";/* empty css                     */import"./vue-router.b5d72754.js";class r extends o{}const t=s(r,[["render",function(o,s,r,t,e,p){return"这里是关于页面"}]]);export{t as default};
