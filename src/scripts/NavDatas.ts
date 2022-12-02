@@ -40,6 +40,17 @@ const datas = [
     ],
   },
   {
+    name: "API接口",
+    data: [
+      {
+        icon: "http://api.sllowcat.com/favicon.ico",
+        title: "Faster API",
+        link: "http://api.sllowcat.com/",
+        description: "迅速、高效的API网站",
+      },
+    ],
+  },
+  {
     name: "精选站点",
     data: [
       {

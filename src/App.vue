@@ -76,6 +76,7 @@
         >Bootstrap 5</a
       >
       <br />
+      <a href="https://icp.gov.moe/?keyword=20225241">萌ICP备20225241号</a>
       Copyright © 2022&nbsp;<a href="https://info.moieo.top">Moieo</a>.
     </footer>
   </div>
